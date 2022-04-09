@@ -10,7 +10,7 @@
 
 
 ## I'm a Developer, and Student!!
-
+- 🤫I'm currently writing something cool
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
@@ -31,33 +31,32 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
-
+<img align="left" alt="visual-studio-code" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660785-9f77d480-d83c-11eb-9795-357778ae8b7e.png" />
+<img align="left" alt="html5" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663250-e36bd900-d83e-11eb-8ee5-1fb15bae5d78.png" />
+<img align="left" alt="css3" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663242-e23aac00-d83e-11eb-8bf7-f233e28935f5.png" />
+<img align="left" alt="sass" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660829-a999d300-d83c-11eb-9be7-1d689f9e2dc1.png" />
+<img align="left" alt="javascript" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660832-aacb0000-d83c-11eb-90d6-cf933bfc9087.png" />
+<img align="left" alt="go" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="pyTHORCH" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="nodejs" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660848-ae5e8700-d83c-11eb-9198-6d9cc45545d1.png" />
+<img align="left" alt="react" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660836-abfc2d00-d83c-11eb-94e7-c88d0f925418.png" />
+<img align="left" alt="MySQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="mongodb" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="git" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662424-20839b80-d83e-11eb-863f-53255ff3f8f6.png" />
+<img align="left" alt="github" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662561-4315b480-d83e-11eb-819d-f05481a23169.jpg" />
+<img align="left" alt="terminal" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660876-b5859500-d83c-11eb-81dd-2c1e3df965d5.png" />
+<img align="left" alt="React" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GraphQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
 <br />
 
 ---
 
 ### 📕 Latest Blog Posts {comming soon...}
-
-<!-- BLOG-POST-LIST:START -->
-- [Pattern for blog](URL)
-<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
