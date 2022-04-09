@@ -1,13 +1,12 @@
 <code>🔭 [Researcher](https://www.linkedin.com/in/danila-dynikov-42b0b2214/)</code>
-<code>🎓 [Student](https://github.com/HowProgrammingWorks/Index)</code>
+<code>🎓 [3rd year student](https://github.com/HowProgrammingWorks/Index)</code>
 <code>💡 Advisor</code>
-<code>👷 3rd year student</code>
+<code>👷 Worker blood</code>
 
 
 
 # Hi there, I'm Danil - aka [Dnkfff] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dynikovich?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdynikovich&screen_name=dynikovich)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/combat_ftg)
 
@@ -28,8 +27,8 @@
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://instagram.com/ddynikov#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/ddynikov#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://t.me/combat_ftg#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff_Kyiv#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff_Kyiv#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
@@ -83,7 +82,7 @@
 </details>
 
 [website]: in progress
-[telegram]: https://t.me/combat_ftg
+[telegram channel]: https://t.me/combat_ftg
 [twitter]: https://twitter.com/dynikovich
 [instagram]: https://instagram.com/ddynikov
 [linkedin]: https://www.linkedin.com/in/danila-dynikov-42b0b2214
