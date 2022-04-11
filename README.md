@@ -45,10 +45,8 @@
 <img align="left" alt="mongodb" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="git" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662424-20839b80-d83e-11eb-863f-53255ff3f8f6.png" />
 <img align="left" alt="github" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662561-4315b480-d83e-11eb-819d-f05481a23169.jpg" />
-<img align="left" alt="terminal" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660876-b5859500-d83c-11eb-81dd-2c1e3df965d5.png" />
 <img align="left" alt="React" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GraphQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
