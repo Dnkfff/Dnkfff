@@ -24,8 +24,8 @@
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://instagram.com/ddynikov#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/ddynikov#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff_Kyiv#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff_Kyiv#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
