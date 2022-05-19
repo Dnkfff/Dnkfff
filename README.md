@@ -1,4 +1,4 @@
-<code>🔭 [Researcher](https://www.linkedin.com/in/danila-dynikov-42b0b2214/)</code>
+<code>💡 [Researcher](https://www.linkedin.com/in/danila-dynikov-42b0b2214/)</code>
 <code>🎓 [3rd year student](https://github.com/HowProgrammingWorks/Index)</code>
 <code>👨‍💻 JavaScript</code><br>
 
