@@ -5,7 +5,7 @@
 # Hi there, I'm Danil - aka [Dnkfff] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dynikovich?label=Follow)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdynikovich&screen_name=dynikovich)
-[![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/combat_ftg)
+[![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/milmemess)
 
 
 ## I'm a Developer, and Student!!
