@@ -10,7 +10,7 @@
 
 ## I'm a Developer, and Student!!
 - 🤫I'm currently writing something cool
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
