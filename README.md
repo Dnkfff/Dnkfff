@@ -9,12 +9,12 @@
 
 
 ## I'm a Developer, and Student!!
-- 🤫I'm currently writing something cool
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 🤫I'm currently writing self-driving-car project
+- 🌱 I’m currently learning neural network datasets
+- 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
-- 😻 Check out the NFT project we are working on: [Discord](https://discord.gg/SyuwMAPN)
+- 😻 Check out the NFT project we are working on{timed out}: [Discord](https://discord.gg/SyuwMAPN)
 
 ### Connect with me:
 
@@ -79,4 +79,4 @@
 [telegram channel]: https://t.me/combat_ftg
 [twitter]: https://twitter.com/dynikovich
 [instagram]: https://instagram.com/ddynikov
-[linkedin]: https://www.linkedin.com/in/danila-dynikov-42b0b2214
+[linkedin]: www.linkedin.com/in/daniillDynikov
