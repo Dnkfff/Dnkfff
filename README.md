@@ -4,19 +4,21 @@
 
 # Hi there, I'm Danil - aka [Dnkfff] 👋 
 
+You can find me here
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/dynikovich?label=Follow)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdynikovich&screen_name=dynikovich)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/milmemess)
 
 
-## I'm a Developer, and Student!!
+## I'm a Developer (ノ-_-)ノ・・・~~┻━┻
 - 🤫I'm currently writing self-driving-car project
-- 🌱 I’m currently learning neural network datasets
+- 🌱 I’m currently learning {key: EVERYTHING}.prototype.__proto__[neuralNetworkDatasets]
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
 - 😻 Check out the NFT project we are working on{timed out}: [Discord](https://discord.gg/SyuwMAPN)
 
-### Connect with me:
+### You can find me here for any type of questions:
 
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-light-mode-only)
@@ -59,11 +61,17 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](pull request link) in [.../...](link)
-2. 💪 Opened PR [#1580](pull request link) in [.../...](link)
-3. 🗣 Commented on [#1572](pull request link) in [.../...](link)
-4. 🎉 Merged PR [#1](pull request link) in [.../...](link)
-5. 💪 Opened PR [#1](pull request link) in [.../...](link)
+1. 💪 Opened PR [#1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
+2. ✅ Closed PR [#15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
+3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags,styles, etc.)
+4. 🗣 Commented on [#10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
+5. 🗣 Commented on [#112] [HowProgrammingWorks/LiveQA](https://github.com/HowProgrammingWorks/LiveQA/discussions/112)
+6. 👩‍💻 Commented on [#82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
+7. ❌Created an issue on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
+8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
+9. 🗣 Commented on [#76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
+8. 🎉 Merged PR [#1](pull request link) in [.../...](link)
+9. 💪 Opened PR [#1](pull request link) in [.../...](link)
 <!--END_SECTION:activity-->
 
 </details>
