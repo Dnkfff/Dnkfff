@@ -61,17 +61,21 @@ You can find me here
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
-2. ✅ Closed PR [#15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
+1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
+2. ✅ Closed PR [№15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
 3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags,styles, etc.)
-4. 🗣 Commented on [#10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
-5. 🗣 Commented on [#112] [HowProgrammingWorks/LiveQA](https://github.com/HowProgrammingWorks/LiveQA/discussions/112)
-6. 👩‍💻 Commented on [#82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
+4. 🗣 Commented on [№10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
+5. 🗣 Commented on [№112] [HowProgrammingWorks/LiveQA](https://github.com/HowProgrammingWorks/LiveQA/discussions/112)
+6. 👩‍💻 Commented on [№82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
 7. ❌Created an issue on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
-9. 🗣 Commented on [#76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
-8. 🎉 Merged PR [#1](pull request link) in [.../...](link)
-9. 💪 Opened PR [#1](pull request link) in [.../...](link)
+9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
+10. 🗣 Commented on [№18294] [github-community/community] How to get a new badge? (Discussion #18294)
+14. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
+// 11. 🎉 Merged PR without a review [#1](pull request link) in [.../...](link)
+// 11. 🎉 Merged PR [#1](pull request link) in [.../...](link)
+// 12. 🎉 Rebased PR [#1](pull request link) in [.../...](link)
+// 13. 💪 Opened PR [#2](pull request link) in [.../...](link)
 <!--END_SECTION:activity-->
 
 </details>
