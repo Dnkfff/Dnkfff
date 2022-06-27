@@ -83,8 +83,9 @@ You can find me here
 
 </details>
 
-[website]: in progress
-[telegram channel]: https://t.me/combat_ftg
-[twitter]: https://twitter.com/dynikovich
-[instagram]: https://instagram.com/ddynikov
-[linkedin]: www.linkedin.com/in/daniillDynikov
+[website](in progress)
+[tg](https://t.me/milmemess)
+[AntonGay](https://t.me/combat_ftg)
+[twitter](https://twitter.com/dynikovich)
+[instagram](https://instagram.com/ddynikov)
+[linkedin](https://www.linkedin.com/in/daniїlDynikov)
