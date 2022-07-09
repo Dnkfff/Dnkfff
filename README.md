@@ -54,7 +54,6 @@ You can find me here
 <br />
 <br />
 
----
 
 ### 📕 Latest Blog Posts {comming soon...}
 
