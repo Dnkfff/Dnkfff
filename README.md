@@ -55,7 +55,7 @@ You can find me here
 <br />
 
 
-### 📕 Latest Blog Posts {comming soon...}
+// 📕 Latest Blog Posts {coming soon}
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -87,9 +87,9 @@ You can find me here
 
 </details>
 
-[website](in progress)
-[tg](https://t.me/milmemess)
-[AntonGay](https://t.me/combat_ftg)
-[twitter](https://twitter.com/dynikovich)
-[instagram](https://instagram.com/ddynikov)
-[linkedin](https://www.linkedin.com/in/daniїlDynikov)
+[website](in progress);
+[tg](https://t.me/milmemess);
+[AntonGay](https://t.me/combat_ftg);
+[twitter](https://twitter.com/dynikovich);
+[instagram](https://youtu.be/dQw4w9WgXcQ);
+[linkedin](https://youtu.be/dQw4w9WgXcQ);
