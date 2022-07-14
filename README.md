@@ -19,7 +19,7 @@ You can find me here
 - ⚡ Fun fact: I love to sing and play guitar
 - 😻 Check out the NFT project we are working on{timed out}: [Discord](https://discord.gg/SyuwMAPN)
 
-### You can find me here for any type of questions:
+### You can find me here for collaboration requests || some else questions:
 
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-light-mode-only)
@@ -27,8 +27,8 @@ You can find me here
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://instagram.com/ddynikov#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/ddynikov#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://t.me/IfUrgentWrite#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/IfUrgentWrite#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
