@@ -11,7 +11,7 @@ You can find me here
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/milmemess)
 
 
-## I'm a Developer (ノ-_-)ノ・・・~~┻━┻
+## I'm a Developer (ノ-_-)ノ・・・~┻━┻
 - 🤫I'm currently writing self-driving-car project
 - 🌱 I’m currently learning {key: EVERYTHING}.prototype.__proto__[neuralNetworkDatasets]
 - 👯 I’m looking to collaborate with others
