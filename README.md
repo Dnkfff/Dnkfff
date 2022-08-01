@@ -13,7 +13,7 @@ You can find me here
 
 ## I'm a Developer (ノ-_-)ノ・・・~┻━┻
 - 🤫I'm currently writing self-driving-car project
-- 🌱 I’m currently learning {key: EVERYTHING}.prototype.{neuralNetworkDatasets}
+- 🌱 I’m currently learning {key: EVERYTHING}.prototype.{SSO}
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
