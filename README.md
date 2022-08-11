@@ -1,6 +1,6 @@
 <code>💡 [Researcher](https://www.linkedin.com/in/danila-dynikov-42b0b2214/)</code>
 <code>🎓 [Student](https://github.com/metarhia)</code>
-<code>👨‍💻 JavaScript</code><br>
+<code>👨‍💻 TypeScript/JavaScript</code><br>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=Dnkfff&label=Profile%20views&color=0e75b6&style=flat" alt="Dnkfff" /> </h1>
 
 # Hi there, I'm Danil - aka [Dnkfff] 👋 
