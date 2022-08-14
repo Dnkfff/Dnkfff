@@ -17,7 +17,7 @@ You can find me here
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
-- 😻 Check out the NFT project we are working on{timed out}: [Discord](https://discord.gg/SyuwMAPN)
+- 😻 Check out the NFT project we are working on{timed out}: [Twitter](https://twitter.com/mq_punch)
 
 ### You can find me here for collaboration requests || some else questions:
 
