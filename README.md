@@ -21,12 +21,14 @@ You can find me here
 
 ### You can find me here for collaboration requests || some else questions:
 
+https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/404/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/404/#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
 [![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff#gh-light-mode-only)
 [![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff#gh-dark-mode-only)
 <br />
