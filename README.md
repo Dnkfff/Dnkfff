@@ -25,8 +25,8 @@ You can find me here
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/danila-dynikov-42b0b2214#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/ddynikov#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/ddynikov#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/404/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/404/#gh-dark-mode-only)
 [![telegram](./img/telegram-light.svg)](https://t.me/Dnkfff#gh-light-mode-only)
 [![telegram](./img/telegram-dark.svg)](https://t.me/Dnkfff#gh-dark-mode-only)
 <br />
