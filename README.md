@@ -85,8 +85,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 </details>
 
 [website](in progress);
-[tg](https://t.me/milmemess);
-[AntonGay](https://t.me/combat_ftg);
+[TG](https://t.me/combat_ftg);
 [twitter](https://twitter.com/dynikovich);
 [instagram](https://youtu.be/dQw4w9WgXcQ);
 [linkedin](https://youtu.be/dQw4w9WgXcQ);
