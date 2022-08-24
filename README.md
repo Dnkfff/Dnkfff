@@ -72,12 +72,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 7. ❌Created an issue on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
 9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
-10. 🗣 Commented on [№18294] [github-community/community] How to get a new badge? (Discussion #18294)
-14. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
-// 11. 🎉 Merged PR without a review [#1](pull request link) in [.../...](link)
-// 11. 🎉 Merged PR [#1](pull request link) in [.../...](link)
-// 12. 🎉 Rebased PR [#1](pull request link) in [.../...](link)
-// 13. 💪 Opened PR [#2](pull request link) in [.../...](link)
+10. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
 <!--END_SECTION:activity-->
 
 </details>
