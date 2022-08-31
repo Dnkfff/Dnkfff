@@ -27,8 +27,8 @@ You can find me here
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://t.me/combat_ftgf#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftgf#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://t.me/combat_ftg#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
