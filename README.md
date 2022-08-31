@@ -54,9 +54,6 @@ You can find me here
 <br />
 <br />
 
-
-// 📕 Latest Blog Posts {coming soon}
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
