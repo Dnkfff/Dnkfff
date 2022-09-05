@@ -1,4 +1,4 @@
-<code>💡 [Researcher](https://www.linkedin.com/in/danila-dynikov-42b0b2214/)</code>
+<code>💡 Researcher</code>
 <code>🎓 [Student](https://github.com/metarhia)</code>
 <code>👨‍💻 TypeScript/JavaScript</code><br>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=Dnkfff&label=Profile%20views&color=0e75b6&style=flat" alt="Dnkfff" /> </h1>
@@ -11,12 +11,12 @@ You can find me here
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkfff)
 
 
-## I'm a Developer (ノ-_-)ノ・・・~┻━┻
+## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
 - 🤫I'm currently writing self-driving-car project
 - 🌱 I’m currently learning {key: EVERYTHING}.prototype.__proto__
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and play guitar
+- ⚡ Fun fact: I love basketball
 - 😻 Check out the NFT project we are working on: [Twitter](https://twitter.com/mq_punch)
 
 ### You can find me here for collaboration requests || some else questions:
