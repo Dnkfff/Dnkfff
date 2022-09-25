@@ -17,7 +17,6 @@ You can find me here
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
-- 😻 Check out the NFT project we are working on: [Twitter](https://twitter.com/mq_punch)
 
 ### You can find me here for collaboration requests || some else questions:
 
