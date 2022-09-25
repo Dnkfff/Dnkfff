@@ -18,7 +18,7 @@ You can find me here
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
 
-### You can find me here for collaboration requests || some else questions:
+### You can't find me here for collaboration requests || some else questions because of the rUSSIAN agression:
 
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
@@ -26,8 +26,8 @@ You can find me here
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://t.me/combat_ftg#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
