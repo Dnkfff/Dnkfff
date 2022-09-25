@@ -12,7 +12,7 @@ You can find me here
 
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
-- 🤫I'm currently writing self-driving-car project
+- 🤫I'm currently writing something cool 👾
 - 🌱 I’m currently learning {key: EVERYTHING}.prototype.__proto__
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
@@ -79,6 +79,5 @@ You can find me here
 
 [website](in progress);
 [TG](https://t.me/combat_ftg);
-[twitter](https://twitter.com/dynikovich);
 [instagram](https://youtu.be/dQw4w9WgXcQ);
 [linkedin](https://youtu.be/dQw4w9WgXcQ);
