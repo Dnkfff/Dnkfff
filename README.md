@@ -17,7 +17,7 @@ You can find me here
 - 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
 
-### You can't find me here for collaboration requests || some else questions because of the rUSSIAN agression:
+### You can't find me here:
 
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
