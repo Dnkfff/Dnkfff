@@ -77,7 +77,8 @@ You can find me here
 
 </details>
 
-[website](in progress);
+# Additional information, my good friends tg:
+
 [TG](https://t.me/combat_ftg);
 [instagram](https://youtu.be/dQw4w9WgXcQ);
 [linkedin](https://youtu.be/dQw4w9WgXcQ);
