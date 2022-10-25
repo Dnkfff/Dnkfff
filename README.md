@@ -37,7 +37,6 @@ You can find me here
 <img align="left" alt="sass" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660829-a999d300-d83c-11eb-9be7-1d689f9e2dc1.png" />
 <img align="left" alt="javascript" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660832-aacb0000-d83c-11eb-90d6-cf933bfc9087.png" />
 <img align="left" alt="go" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="pyTHORCH" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="nodejs" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660848-ae5e8700-d83c-11eb-9198-6d9cc45545d1.png" />
 <img align="left" alt="react" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660836-abfc2d00-d83c-11eb-94e7-c88d0f925418.png" />
 <img align="left" alt="MySQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
@@ -47,6 +46,7 @@ You can find me here
 <img align="left" alt="github" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662561-4315b480-d83e-11eb-819d-f05481a23169.jpg" />
 <img align="left" alt="React" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GraphQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="pyTHORCH" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
