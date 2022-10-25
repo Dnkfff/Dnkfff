@@ -7,8 +7,8 @@
 
 You can find me here
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thisAliase?label=Follow)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdynikovich&screen_name=dynikovich)
-[![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkfff)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thisAliase?label=Follow)](https://twitter.com/thisAliase)
+[![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf1)
 
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
