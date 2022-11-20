@@ -78,9 +78,3 @@ You can find me here
   <img align="left" alt="Dnkfff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dnkfff&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
-# Additional information, my good friends tg:
-
-[TG](https://t.me/combat_ftg);
-[instagram](https://youtu.be/dQw4w9WgXcQ);
-[linkedin](https://youtu.be/dQw4w9WgXcQ);
