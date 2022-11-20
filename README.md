@@ -12,9 +12,9 @@ You can find me here
 
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
-- 🤫I'm currently writing something cool 👾
-- 🌱 I’m currently learning {key: EVERYTHING}.prototype.__proto__
-- 🥅 2022 Goals: Learn more about web3 && contribute more to Open Source projects
+- 🤫I'm currently writing self driving car 👾
+- 🌱 I’m currently learning {key: somethingCool}.prototype.__proto__
+- 🥅 2022 Goals: Learn more about data science && contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
 
 ### You can't find me here:
@@ -24,9 +24,9 @@ You can find me here
 [![linkedin](./img/linkedin-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
 [![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
@@ -53,12 +53,13 @@ You can find me here
 <br />
 
 <details>
+  
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
 2. ✅ Closed PR [№15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
-3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags,styles, etc.)
+3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, etc.)
 4. 🗣 Commented on [№10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
 5. 🗣 Commented on [№112] [HowProgrammingWorks/LiveQA](https://github.com/HowProgrammingWorks/LiveQA/discussions/112)
 6. 👩‍💻 Commented on [№82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
@@ -66,6 +67,7 @@ You can find me here
 8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
 9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
 10. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
+11. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)
 <!--END_SECTION:activity-->
 
 </details>
