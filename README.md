@@ -3,30 +3,19 @@
 <code>👨‍💻 TypeScript/JavaScript</code><br>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=Dnkfff&label=Profile%20views&color=0e75b6&style=flat" alt="Dnkfff" /> </h1>
 
-# Hi there, I'm Danil - aka [Dnkfff] 👋 
+# Hi there, I'm Daniїl - aka [Dnkfff] 👋 
 
 You can find me here
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thisAliase?label=Follow)](https://twitter.com/thisAliase)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf1)
 
-
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
 - 🤫I'm currently writing self driving car 👾
 - 🌱 I’m currently learning {key: somethingCool}.prototype.__proto__
-- 🥅 2022 Goals: Learn more about data science && contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
 
-### You can't find me here:
-
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
-[![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
 <br />
 
 ### Languages and Tools:
@@ -57,9 +46,18 @@ You can find me here
 
 <details>
   
-  <summary>:zap: Recent GitHub Activity</summary>
+<!---
+  <summary> :zap: Recent GitHub Activity</summary>
+  ### You can't find me here:
+
+[![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
+[![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
   
-<!--START_SECTION:activity-->
 1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
 2. ✅ Closed PR [№15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
 3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, etc.)
@@ -71,7 +69,8 @@ You can find me here
 9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
 10. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
 11. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)
-<!--END_SECTION:activity-->
+
+-->
 
 </details>
 
