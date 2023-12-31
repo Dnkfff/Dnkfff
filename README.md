@@ -13,7 +13,7 @@ You can find me here
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
 - 🤫I'm currently writing self driving car 👾
 - 🌱 I’m currently learning {key: somethingCool}.prototype.__proto__.__innit__
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
 
 <br />
