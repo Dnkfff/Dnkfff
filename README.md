@@ -24,10 +24,11 @@ You can find me here or somewhere else :D
 ### Languages and Tools:
 
 <img align="left" alt="visual-studio-code" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660785-9f77d480-d83c-11eb-9795-357778ae8b7e.png" />
+
 <img align="left" alt="html5" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663250-e36bd900-d83e-11eb-8ee5-1fb15bae5d78.png" />
 <img align="left" alt="css3" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663242-e23aac00-d83e-11eb-8bf7-f233e28935f5.png" />
 <img align="left" alt="sass" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660829-a999d300-d83c-11eb-9be7-1d689f9e2dc1.png" />
-<img align="left" alt="javascript" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660832-aacb0000-d83c-11eb-90d6-cf933bfc9087.png" />
+<img align="left" alt="javascript" width="60px" width="100%" src="https://github.com/Dnkfff/Dnkfff/blob/46a52bef955b623a52fb7721554d916c0ba76ad5/img/typescript-javascript.jpg" />
 <img align="left" alt="go" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="nodejs" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660848-ae5e8700-d83c-11eb-9198-6d9cc45545d1.png" />
 <img align="left" alt="MySQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
