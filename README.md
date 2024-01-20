@@ -47,9 +47,8 @@ You can find me here or somewhere else :D
 
 
 <details>
-  
-<!---
-  <summary> :zap: Recent GitHub Activity</summary>
+
+<!---<summary> :zap: Recent GitHub Activity</summary>
   ### You can't find me here:
 
 [![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
@@ -61,6 +60,7 @@ You can find me here or somewhere else :D
 [![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
   
 1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
+1. ✅ Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
 2. ✅ Closed PR [№15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
 3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, etc.)
 4. 🗣 Commented on [№10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
@@ -70,15 +70,10 @@ You can find me here or somewhere else :D
 8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
 9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
 10. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
-11. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)
-
--->
-
+11. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)-->
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Dnkfff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dnkfff&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
