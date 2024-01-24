@@ -48,16 +48,15 @@ You can find me here or somewhere else :D
 
 <details>
 
-<!---<summary> :zap: Recent GitHub Activity</summary>
-  ### You can't find me here:
+<summary> :zap: Recent GitHub Activity</summary>
 
 [![linkedin](./img/linkedin-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
 [![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
-[![telegram](./img/telegram-dark.svg)](https://t.me/combat_ftg#gh-dark-mode-only)
+[![telegram](./img/telegram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
   
 1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
 1. ✅ Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
@@ -68,9 +67,8 @@ You can find me here or somewhere else :D
 6. 👩‍💻 Commented on [№82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
 7. ❌Created an issue on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
-9. 🗣 Commented on [№76] [RomenaRolana/TheFirstCapital-proj-demo](https://github.com/RomenaRolana/TheFirstCapital-proj-demo/pull/76)
-10. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
-11. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)-->
+9. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
+10. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)-->
 </details>
 
 <details>
