@@ -26,6 +26,7 @@ You can find me here or somewhere else :D
 <img align="left" alt="visual-studio-code" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660785-9f77d480-d83c-11eb-9795-357778ae8b7e.png" />
 
 <img align="left" alt="html5" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663250-e36bd900-d83e-11eb-8ee5-1fb15bae5d78.png" />
+<img align="left" alt="React" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="css3" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123663242-e23aac00-d83e-11eb-8bf7-f233e28935f5.png" />
 <img align="left" alt="sass" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123660829-a999d300-d83c-11eb-9be7-1d689f9e2dc1.png" />
 <img align="left" alt="javascript" width="60px" width="100%" src="https://github.com/Dnkfff/Dnkfff/blob/46a52bef955b623a52fb7721554d916c0ba76ad5/img/typescript-javascript.jpg" />
@@ -35,8 +36,8 @@ You can find me here or somewhere else :D
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="postman-icon" width="36px" width="100%" src="https://github.com/Dnkfff/Dnkfff/blob/main/img/postman-icon.svg" />
 <img align="left" alt="git" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662424-20839b80-d83e-11eb-863f-53255ff3f8f6.png" />
+<img align="left" alt="discord-api" width="36px" width="100%" src="https://github.com/Dnkfff/Dnkfff/blob/main/img/discord-icon.svg" />
 <img align="left" alt="github" width="36px" width="100%" src="https://user-images.githubusercontent.com/47355300/123662561-4315b480-d83e-11eb-819d-f05481a23169.jpg" />
-<img align="left" alt="React" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!---<img align="left" alt="GraphQL" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> -->
 <img align="left" alt="pyTHORCH" width="36px" width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
