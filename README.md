@@ -14,7 +14,7 @@ You can find me here or somewhere else :D
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf1)
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
-- 🤫I'm currently writing self driving car 👾
+- 🤫I'm currently writing something cool 👾
 - 🌱 I’m currently learning {key: somethingCool}.prototype.__proto__.__innit__
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love basketball
