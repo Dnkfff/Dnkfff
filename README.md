@@ -71,7 +71,8 @@ You can find me here or somewhere else :D
 6. 👩‍💻 Commented on [№82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
 7. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
 8. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
-9. ✅Closed project with 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
+9. 🗣 Opened a discussion
+10. ✅Closed project with 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 </details>
 
 <details>
