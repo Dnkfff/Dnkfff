@@ -11,6 +11,7 @@
 You can find me here or somewhere else :D
 
 <!---[![Twitter Follow](https://img.shields.io/twitter/follow/thisAliase?label=Follow)](https://twitter.com/thisAliase)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniilldynikov)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf1)
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
@@ -61,17 +62,16 @@ You can find me here or somewhere else :D
 [![telegram](./img/telegram-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
 [![telegram](./img/telegram-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley#gh-light-mode-only)
   
-1. 💪 Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
-1. ✅ Opened PR [№1](pull request link) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
+1. 💪 Opened PR [№2]([pull request link](https://github.com/perezd/node-murmurhash/pull/15)) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/15))
+1. ✅ Opened PR [№1]([pull requiest link](https://github.com/perezd/node-murmurhash/pull/15)) in [node-murmurhash/main]([link](https://github.com/perezd/node-murmurhash/pull/13))
 2. ✅ Closed PR [№15](pull request link) in [Stasyan/main]([link](https://github.com/Dnkfff/brokeelite/pull/15))
-3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, etc.)
+3. ❌Created 4 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 4. 🗣 Commented on [№10] [sadsiroko/testVideochat](https://github.com/sadsirko/testVideochat)
 5. 🗣 Commented on [№112] [HowProgrammingWorks/LiveQA](https://github.com/HowProgrammingWorks/LiveQA/discussions/112)
 6. 👩‍💻 Commented on [№82] [HowProgrammingWorks/LiveQA] (https://github.com/HowProgrammingWorks/LiveQA/discussions/82)
-7. ❌Created an issue on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
-8. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
-9. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
-10. ✅Closed 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues) (meta-tags, styles, front, icon & font, rendering)-->
+7. 🤹‍♀️ Have had created repository with old labs, which were just archived on my laptop [Dnkfff/labsJS](https://github.com/Dnkfff/labsJS)
+8. 🗣 Commented on [№19532] [github-community/community](https://github.com/github-community/community/discussions/19532)
+9. ✅Closed project with 5 issues on [Dnkfff/brokeelite](https://github.com/Dnkfff/brokeelite/issues)
 </details>
 
 <details>
