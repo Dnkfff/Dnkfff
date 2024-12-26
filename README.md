@@ -10,7 +10,6 @@
 
 You can find me here or somewhere else :D
 
-<!---[![Twitter Follow](https://img.shields.io/twitter/follow/thisAliase?label=Follow)](https://twitter.com/thisAliase)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniilldynikov)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf1)
 
