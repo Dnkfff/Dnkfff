@@ -1,9 +1,3 @@
-<code>💡 Researcher</code>
-<code>🎓 Student</code><br>
-<code>👨‍💻 TypeScript/JavaScript</code><br>
-<code> 🐍Python </code><br>
-<code> 🐉Go lang </code>
-
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=Dnkfff&label=Profile%20views&color=0e75b6&style=flat" alt="Dnkfff" /> </h1>
 
 # Hi there, I'm Daniїl - aka [Dnkfff] 👋 
