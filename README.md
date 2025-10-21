@@ -2,13 +2,12 @@
 
 # Hi there, I'm Daniїl - aka [Dnkfff] 👋 
 
-You can find me here or somewhere else :D
+You can find me here or somewhere else, probably :D
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniilldynikov)
 [![Telegram Follow](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Dnkf0)
 
 ## I'm a TypeScript Developer (ノ-_-)ノ・・・~┻━┻
-- 🥅 2025 Goals: Stay alive
+- 🥅 2025 Goals: Earn a gadzillion billions dollars
 - ⚡ Fun fact: I love basketball
 
 <br />
